@@ -1,0 +1,4 @@
+
+The item is a Lamp and the price is $12.25
+The item is a Sugar and the price is $3.43
+The item is a Dog and the price is $1500.0
